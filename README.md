@@ -6,7 +6,7 @@ This is a turned based random number guessing game. There are two players that a
 
 This was created so I could practice using OO programming in Java and to understand syntax. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/-Lkf0XQfot0)
 
 # Development Environment
 
