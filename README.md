@@ -23,5 +23,5 @@ This was done in Java using, Random, Collections, and ArrayList Libraries.
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* The ability to add new players!
 * Add a new game mechanic
+* New user interface potentially with graphics
